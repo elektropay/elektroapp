@@ -5,7 +5,7 @@
     //--------------------------------------------------------------------------
 
     var INSTANCE_URL   = 'https://api.everpayinc.com/';
-    var APP_API_KEY     = '5603ade02cf2e0aa780e98ec1bf23cf0eaac788f6a96f2fefb2af475c9055e0f';
+    var APP_API_KEY     = '5685b5ac1ff7be382dae4a5b3aac3795e590646e8b884142be7f2dcee1a12ee5';
 
 
 
