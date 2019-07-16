@@ -4,8 +4,8 @@
     //  DreamFactory 2.0 instance specific constants
     //--------------------------------------------------------------------------
 
-    var INSTANCE_URL   = '';
-    var APP_API_KEY     = '';
+    var INSTANCE_URL   = 'https://api.everpayinc.com/';
+    var APP_API_KEY     = '5603ade02cf2e0aa780e98ec1bf23cf0eaac788f6a96f2fefb2af475c9055e0f';
 
 
 
